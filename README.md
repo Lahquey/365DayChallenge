@@ -1,7 +1,5 @@
 # 365DayChallenge
-Certainly! Here's a README template you can use for your GitHub repository to showcase your 365-day coding challenge:
 
----
 
 # 365-Day Coding Challenge Repository
 
