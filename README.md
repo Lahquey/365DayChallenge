@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 365DayChallenge
 
 
@@ -42,3 +43,6 @@ I'd like to thank [anyone you'd like to acknowledge, such as mentors, resources,
 - [Twitter] https://twitter.com/lucky_griffin_
 -
 
+=======
+365 Days Coding at 1 hour per day challenge./n Class assignment codes do not count
+>>>>>>> origin/master
